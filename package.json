@@ -1,0 +1,17 @@
+{
+  "name": "asyncawait",
+  "version": "1.0.0",
+  "main": "apppromises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "git": "^0.1.5",
+    "git-root-dir": "^1.0.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
